@@ -50,12 +50,6 @@ github = "performancecopilot/pcp"
 use_latest_tag = true
 prefix = "v"
 
-["app-misc/tusk"]
-source = "github"
-github = "klauscfhq/tusk"
-use_latest_tag = true
-prefix = "v"
-
 ["app-shells/shell-gpt"]
 source = "github"
 github = "TheR1D/shell_gpt"
@@ -121,5 +115,3 @@ source = "github"
 github = "jaagr/polybar"
 use_latest_tag = true
 prefix = "v"
-
-

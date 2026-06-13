@@ -54,8 +54,6 @@ layman -a gig
  app-emulation/looking-glass       | 0_beta4     |        | https://looking-glass.hostfission.com                   | A low latency KVM FrameRelay implementation for guests with VGA PCI Passthrough
                                    | 0_beta4_rc3 |        |                                                         |
 -----------------------------------|-------------|--------|---------------------------------------------------------|--------------------
- app-misc/tusk                     | 0.23.0      |        | https://klauscfhq.github.io/tusk                        | Refined Evernote desktop app
------------------------------------|-------------|--------|---------------------------------------------------------|--------------------
  app-misc/urlview                  | 0.9_p21     |        | https://packages.qa.debian.org/u/urlview.html           | A curses URL parser for text files
 -----------------------------------|-------------|--------|---------------------------------------------------------|--------------------
  dev-python/docker-pycreds         | 0.3.0       |        | https://github.com/shin-/dockerpy-creds/                | Python bindings for the docker credentials store API
