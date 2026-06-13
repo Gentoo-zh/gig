@@ -80,12 +80,6 @@ github = "cloud-fs/cloud-fs.github.io"
 use_latest_tag = true
 prefix = "v"
 
-["sys-fs/gocryptfs"]
-source = "github"
-github = "rfjakob/gocryptfs"
-use_latest_tag = true
-prefix = "v"
-
 ["x11-misc/optimus-manager-qt"]
 source = "github"
 github = "Shatur/optimus-manager-qt"
