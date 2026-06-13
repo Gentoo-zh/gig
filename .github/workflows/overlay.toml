@@ -56,12 +56,6 @@ github = "TheR1D/shell_gpt"
 use_latest_tag = true
 prefix = "v"
 
-["dev-util/osc"]
-source = "github"
-github = "openSUSE/osc"
-use_latest_tag = true
-prefix = ""
-
 ["kde-misc/kde-rounded-corners"]
 source = "github"
 github = "matinlotfali/KDE-Rounded-Corners"
