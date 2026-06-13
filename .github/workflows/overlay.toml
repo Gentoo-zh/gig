@@ -56,12 +56,6 @@ github = "TheR1D/shell_gpt"
 use_latest_tag = true
 prefix = "v"
 
-["dev-python/typer"]
-source = "github"
-github = "tiangolo/typer"
-use_latest_tag = true
-prefix = ""
-
 ["dev-util/osc"]
 source = "github"
 github = "openSUSE/osc"
