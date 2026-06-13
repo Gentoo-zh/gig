@@ -100,8 +100,6 @@ layman -a gig
  x11-misc/optimus-manager-qt       | 1.6.4       |        | https://github.com/Shatur95/optimus-manager-qt          | Qt-based interface for Optimus Manager
    x11-misc/optimus-manager        | 1.4         | RD     | https://github.com/Askannz/optimus-manager              | Management utility to handle GPU switching for Optimus laptops
 -----------------------------------|-------------|--------|---------------------------------------------------------|--------------------
- x11-misc/polybar                  | 3.1.0       |        | https://github.com/jaagr/polybar                        | A fast and easy-to-use status bar
------------------------------------|-------------|--------|---------------------------------------------------------|--------------------
  x11-terms/termite                 | 13          |        | https://github.com/thestinger/termite                   | A keyboard-centric VTE-based terminal
                                    | 9999        |        |                                                         |
    x11-libs/vte                    | 0.48.4      |  D, RD | https://wiki.gnome.org/action/show/Apps/Terminal/VTE    | Library providing a virtual terminal emulator widget
