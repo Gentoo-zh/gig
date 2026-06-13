@@ -60,8 +60,6 @@ layman -a gig
 -----------------------------------|-------------|--------|---------------------------------------------------------|--------------------
  dev-python/python-potr            | 1.0.2       |        | https://pypi.org/project/python-potr/                   | pure Python Off-The-Record encryption
 -----------------------------------|-------------|--------|---------------------------------------------------------|--------------------
- dev-util/StarUML                  | 3.2.2       |        | http://staruml.io/                                      | A sophisticated software modeler for agile and concise modeling
------------------------------------|-------------|--------|---------------------------------------------------------|--------------------
  games-board/majsoul-plus          | 2.0.0       |        | https://github.com/MajsoulPlus/majsoul-plus             | A dedicated browser for Mahjong Majsoul, provides some proprietary features
                                    | 2.0.1       |        |                                                         |
 -----------------------------------|-------------|--------|---------------------------------------------------------|--------------------
