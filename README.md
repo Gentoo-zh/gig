@@ -21,31 +21,8 @@ layman -a gig
 ===================================|=============|========|=========================================================|====================
  acct-group/libvirtdbus            | 0           |        |                                                         |
 -----------------------------------|-------------|--------|---------------------------------------------------------|--------------------
- app-admin/cockpit-benchmark       | 0.2.1       |        | https://github.com/45Drives/cockpit-benchmark           | A Storage Benchmark Utility for Cockpit.
-                                   | 9999        |        |                                                         |
-   app-admin/cockpit               | 255.1       | RD     | http://cockpit-project.org/                             | Server Administration Web Interface
-                                   | 9999        |        |                                                         |
-     acct-group/cockpit-ws         | 0           | RD     |                                                         | Server Administration Web Interface
-     acct-group/cockpit-wsinstance | 0           | RD     |                                                         | Server Administration Web Interface
-     acct-user/cockpit-ws          | 0           | RD     |                                                         | Server Administration Web Interface
-     acct-user/cockpit-wsinstance  | 0           | RD     |                                                         | Server Administration Web Interface
-     app-metrics/pcp               | 5.3.4       |  D, RD | http://pcp.io                                           | Performance Co-Pilot, system performance and analysis framework
-                                   | 9999        |        |                                                         |
-       acct-group/pcp              | 0           | RD     |                                                         | Performance Co-Pilot, system performance and analysis framework
-       acct-user/pcp               | 0           | RD     |                                                         | Performance Co-Pilot
------------------------------------|-------------|--------|---------------------------------------------------------|--------------------
- app-admin/cockpit-file-sharing    | 2.4.1       |        | https://github.com/45Drives/cockpit-file-sharing        | A Cockpit plugin to easily manage samba and NFS file sharing.
-                                   | 9999        |        |                                                         |
------------------------------------|-------------|--------|---------------------------------------------------------|--------------------
- app-admin/cockpit-machines        | 254         |        | http://cockpit-project.org/                             | This is the Cockpit user interface for virtual machines
-   app-emulation/libvirt-dbus      | 1.4.0       | RD     | http://libvirt.org                                      | DBus protocol binding for libvirt native C API
-     acct-user/libvirtdbus         | 0           | RD     |                                                         | Libvirt D-Bus bridge
------------------------------------|-------------|--------|---------------------------------------------------------|--------------------
- app-admin/cockpit-navigator       | 0.5.5       |        | https://github.com/45Drives/cockpit-navigator           | A Featureful File Browser for Cockpit.
-                                   | 9999        |        |                                                         |
------------------------------------|-------------|--------|---------------------------------------------------------|--------------------
- app-admin/cockpit-zfs-manager     | 0.3.4.514   |        | https://github.com/optimans/cockpit-zfs-manager         | Cockpit ZFS Manager is an interactive ZFS on Linux admin package for Cockpit.
-                                   | 9999        |        |                                                         |
+ app-emulation/libvirt-dbus        | 1.4.0       |        | http://libvirt.org                                      | DBus protocol binding for libvirt native C API
+   acct-user/libvirtdbus           | 0           | RD     |                                                         | Libvirt D-Bus bridge
 -----------------------------------|-------------|--------|---------------------------------------------------------|--------------------
  app-dicts/stardict-ecdict-en-zh   | 1.0.28      |        | https://github.com/skywind3000/ECDICT                   | Free English to Chinese Dictionary Database
 -----------------------------------|-------------|--------|---------------------------------------------------------|--------------------
