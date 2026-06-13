@@ -91,9 +91,3 @@ source = "github"
 github = "Askannz/optimus-manager"
 use_latest_tag = true
 prefix = "v"
-
-["x11-misc/polybar"]
-source = "github"
-github = "jaagr/polybar"
-use_latest_tag = true
-prefix = "v"
