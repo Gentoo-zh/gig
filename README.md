@@ -80,7 +80,6 @@ layman -a gig
 -----------------------------------|-------------|--------|---------------------------------------------------------|--------------------
  net-proxy/simple-obfs             | 0.0.5       |        | https://github.com/shadowsocks/simple-obfs              | A simple obfuscating tool
 -----------------------------------|-------------|--------|---------------------------------------------------------|--------------------
- net-proxy/v2rayxplus              | 1.0.0       |        | https://gitlab.com/xiayesuifeng/v2rayxplus              | A v2ray GUI client written in GO
    net-proxy/v2ray                 | 4.22.1      | RD     | https://www.v2ray.com/                                  | A platform for building proxies to bypass network restrictions.
 -----------------------------------|-------------|--------|---------------------------------------------------------|--------------------
  sys-devel/arch-install-scripts    | 23          |        | https://projects.archlinux.org/arch-install-scripts.git | Scripts to aid in installing Arch Linux
