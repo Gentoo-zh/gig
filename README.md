@@ -80,8 +80,6 @@ layman -a gig
 -----------------------------------|-------------|--------|---------------------------------------------------------|--------------------
  net-proxy/simple-obfs             | 0.0.5       |        | https://github.com/shadowsocks/simple-obfs              | A simple obfuscating tool
 -----------------------------------|-------------|--------|---------------------------------------------------------|--------------------
- net-proxy/v2rayxplus              | 1.0.0       |        | https://gitlab.com/xiayesuifeng/v2rayxplus              | A v2ray GUI client written in GO
------------------------------------|-------------|--------|---------------------------------------------------------|--------------------
  sys-devel/arch-install-scripts    | 23          |        | https://projects.archlinux.org/arch-install-scripts.git | Scripts to aid in installing Arch Linux
    sys-apps/pacman                 | 5.2.2       |  D, RD | https://archlinux.org/pacman                            | Archlinux's binary package manager
      app-crypt/archlinux-keyring   | 20200622    |  D, RD | https://git.archlinux.org/archlinux-keyring.git         | GnuPG keyring of Archlinux developer keys
